@@ -1,0 +1,32 @@
+.sq
+{
+    height: 25px;
+  width: 25px;
+  display: inline-block;
+  background-color: crimson;
+}
+.round--button
+{
+  height:25px;
+  width:25px;
+  display:inline-block;
+  border-radius:50%;
+}
+.spec--block{
+    height:12vh;
+    width:8vw;
+    display:inline-block;
+    border-radius: 2%;
+    border-style: groove;
+    border: 1.6px solid rgb(233, 226, 226);
+    
+}
+.cost-block
+{
+    height:12vh;
+    width:10vw;
+    display:inline-block;
+    border-radius: 2%;
+    border-style: groove;
+    border: 1.6px solid rgb(233, 226, 226);
+}
